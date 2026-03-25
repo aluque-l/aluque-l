@@ -5,14 +5,14 @@ Professional software developer in training with a strong foundation in low-leve
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 * **42 Telefónica Málaga (Common Core):** Currently at **Rank 03**. Developing deep expertise in memory management, Unix systems, and collaborative software architecture.
 * **University of Málaga (UMA):** Introduction to Python and Genetic Algorithms Application. Specialized in heuristic-based problem solving and evolutionary computation.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Core Development
 * **Languages:** C, C++, Python, Shell Scripting (Bash/Zsh).
@@ -21,6 +21,8 @@ Professional software developer in training with a strong foundation in low-leve
 ### Multi-platform & Future Interests
 * **Mobile/Desktop:** Actively exploring Flutter and Kotlin Multiplatform (KMP) for unified UI/UX experiences.
 * **Logic:** Genetic Algorithms, Data Structures, and Complex Problem Solving.
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
